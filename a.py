@@ -1,0 +1,2 @@
+teacher='zhouxiong'
+print(teacher)

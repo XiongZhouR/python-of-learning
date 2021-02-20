@@ -1,4 +1,4 @@
-name="   Steven curry    "
+name = "   Steven curry    "
 print("\n\t"+name)
 print(name.lstrip())
 print(name.rstrip())

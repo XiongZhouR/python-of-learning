@@ -1,2 +1,0 @@
-teacher='zhouxiong'
-print(teacher)

@@ -4,7 +4,7 @@ from matplotlib import font_manager
 # 设置中文显示
 # !本字体路径为本机一款字体路径,运行时可任意替换为系统中的一款中文字体路径,必须为中文字体,系统不限:Windows/macOS/Linux
 my_font = font_manager.FontProperties(
-    fname='/System/Library/Fonts/Hiragino Sans GB.ttc')
+    fname='C:\Windows\Fonts\STFANGSO.TTF')
 
 # 设置图片大小
 plt.figure(figsize=(20, 8), dpi=80)
